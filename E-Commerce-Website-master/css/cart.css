@@ -1,11 +1,11 @@
 body{
-    background-color: #ede2fa;
+    background-color: #e600ac;
     text-align: center;
 }
 button{
-    padding: 5px;
+    padding: 5.5px;
     color: #efd8fa;
-    border-radius: 5px;
+    border-radius: 5.5px;
     font-size: large;
     cursor: pointer;
     text-decoration:none;
